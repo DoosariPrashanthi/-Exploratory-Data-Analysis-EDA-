@@ -1,0 +1,26 @@
+# Exploratory Data Analysis (EDA)
+
+## Dataset
+Mobile Price Dataset
+
+## Objective
+To understand the dataset using statistics and visualizations.
+
+## Summary Statistics
+- Average price: ~441 USD
+- Most phones fall between 200–600 USD
+- RAM ranges from 4GB to 8GB
+
+## Visualizations Used
+- Histogram
+- Boxplot
+- Correlation Heatmap
+- Pairplot
+
+## Observations
+- Higher RAM → higher price
+- Better camera → slightly higher price
+- Most devices have mid-range specs
+
+## Conclusion
+EDA shows strong relationships between price and features like RAM and camera.
